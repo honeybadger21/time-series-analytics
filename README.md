@@ -1,6 +1,6 @@
 # time-series-analytics
 
->> Random Sample
+<b>Random Sample</b>
 
 Coursework for Time Series Analytics STA 280 at UT Austin 
 
