@@ -1,8 +1,8 @@
 # time-series-analytics
 
-<b>Random Sample</b>
-
 Coursework for Time Series Analytics STA 280 at UT Austin 
+
+<b>A. Random Sample</b>
 
 It is very important to master the Random Sample time series model thoroughly. There are three reasons for this:
 
