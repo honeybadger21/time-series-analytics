@@ -16,6 +16,5 @@ Thus, we look at the conditions that one needs to check to declare a time series
 
 Check out the .pdf for detailed step-by-step explanation, and the .xlsx for supporting calculations.
 
-<b>B. Random Walk</b>
-
+<b>B. Random Walk</b>\
 <b>C. Model Building</b>
